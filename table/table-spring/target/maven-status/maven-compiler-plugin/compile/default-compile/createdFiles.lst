@@ -1,0 +1,5 @@
+hu\yokudlela\table\datamodel\Reservation.class
+hu\yokudlela\table\datamodel\Table$TableBuilder.class
+hu\yokudlela\table\datamodel\Table.class
+hu\yokudlela\table\spring\TableApplication.class
+hu\yokudlela\table\datamodel\Reservation$ReservationBuilder.class
