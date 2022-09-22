@@ -9,7 +9,7 @@ package hu.yokudlele.order.datamodel;
  *
  * @author oe
  */
-enum OrderStateEnum {
+public enum OrderStateEnum {
     Ordered,
     Completed,
     Delivered,

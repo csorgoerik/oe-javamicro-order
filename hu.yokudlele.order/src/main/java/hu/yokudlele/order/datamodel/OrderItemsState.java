@@ -13,12 +13,12 @@ import lombok.NoArgsConstructor;
 @Data
 @EqualsAndHashCode()
 @NoArgsConstructor
-public class OrderItemState {
+public class OrderItemsState {
     private OrderItem[] orders;
     private OrderStateEnum status;
     
     @Builder
-    public OrderItemState(OrderItem[] orders, OrderStateEnum status) {
+    public OrderItemsState(OrderItem[] orders, OrderStateEnum status) {
         this.orders = orders;
         this.status = status;
     }
