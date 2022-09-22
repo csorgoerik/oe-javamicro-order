@@ -3,27 +3,34 @@
     <modelVersion>4.0.0</modelVersion>
     <parent>
         <groupId>hu.yokudlela</groupId>
-        <artifactId>hu.yokudlela.order</artifactId>
+        <artifactId>table</artifactId>
         <version>1.0-SNAPSHOT</version>
     </parent>
-    <artifactId>order-spring</artifactId>
+    <artifactId>hu.yokudlele.order</artifactId>
     <packaging>jar</packaging>
-    <dependencies>
+    
+     <dependencies>
         <dependency>
             <groupId>org.projectlombok</groupId>
             <artifactId>lombok</artifactId>
             <version>1.18.20</version>
             <scope>provided</scope>
         </dependency>
+        <!-- Spring openAPI-->
         <dependency>
-            <groupId>${project.groupId}</groupId>
-            <artifactId>table-spring</artifactId>
-            <version>${project.version}</version>
+            <groupId>org.springdoc</groupId>
+            <artifactId>springdoc-openapi-ui</artifactId>
+            <version>1.5.10</version>
         </dependency>
         <dependency>
-            <groupId>${project.groupId}</groupId>
-            <artifactId>hu.yokudlela.table</artifactId>
-            <version>${project.version}</version>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-web</artifactId>
+            <version>2.5.4</version>
+        </dependency>        
+        <dependency>
+            <groupId>com.fasterxml.jackson.core</groupId>
+            <artifactId>jackson-core</artifactId>
+            <version>2.12.5</version>
         </dependency>
     </dependencies>
 </project>
