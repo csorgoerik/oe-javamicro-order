@@ -1,6 +1,7 @@
-F:\Egyetem\java-mikro\gitclone\hu.yokudlele.order\src\main\java\hu\yokudlele\order\datamodel\OrderItem.java
-F:\Egyetem\java-mikro\gitclone\hu.yokudlele.order\src\main\java\hu\yokudlele\order\datamodel\OrderItemsState.java
-F:\Egyetem\java-mikro\gitclone\hu.yokudlele.order\src\main\java\hu\yokudlele\order\store\OrderItemStore.java
-F:\Egyetem\java-mikro\gitclone\hu.yokudlele.order\src\main\java\hu\yokudlele\order\datamodel\OrderStateEnum.java
-F:\Egyetem\java-mikro\gitclone\hu.yokudlele.order\src\main\java\hu\yokudlele\order\service\Waiter.java
-F:\Egyetem\java-mikro\gitclone\hu.yokudlele.order\src\main\java\hu\yokudlela\order\spring\OrderApplication.java
+/home/oe/yokudlela/yokudlela-oe/oe-javamicro-order/hu.yokudlele.order/src/main/java/hu/yokudlele/order/service/Waiter.java
+/home/oe/yokudlela/yokudlela-oe/oe-javamicro-order/hu.yokudlele.order/src/main/java/hu/yokudlele/order/datamodel/OrderItemsState.java
+/home/oe/yokudlela/yokudlela-oe/oe-javamicro-order/hu.yokudlele.order/src/main/java/hu/yokudlele/order/datamodel/OrderItem.java
+/home/oe/yokudlela/yokudlela-oe/oe-javamicro-order/hu.yokudlele.order/src/main/java/hu/yokudlela/order/spring/OrderApplication.java
+/home/oe/yokudlela/yokudlela-oe/oe-javamicro-order/hu.yokudlele.order/src/main/java/hu/yokudlele/order/store/OrderItemStore.java
+/home/oe/yokudlela/yokudlela-oe/oe-javamicro-order/hu.yokudlele.order/src/main/java/hu/yokudlele/order/rest/WaiterController.java
+/home/oe/yokudlela/yokudlela-oe/oe-javamicro-order/hu.yokudlele.order/src/main/java/hu/yokudlele/order/datamodel/OrderStateEnum.java

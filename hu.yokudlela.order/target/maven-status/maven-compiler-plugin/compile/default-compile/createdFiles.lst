@@ -1,0 +1,10 @@
+hu/yokudlele/order/rest/WaiterController.class
+hu/yokudlele/order/datamodel/OrderItem.class
+hu/yokudlela/order/spring/OrderApplication$1.class
+hu/yokudlele/order/service/Waiter.class
+hu/yokudlela/order/spring/OrderApplication.class
+hu/yokudlele/order/store/OrderItemStore.class
+hu/yokudlele/order/datamodel/OrderItemsState$OrderItemsStateBuilder.class
+hu/yokudlele/order/datamodel/OrderItemsState.class
+hu/yokudlele/order/datamodel/OrderStateEnum.class
+hu/yokudlele/order/datamodel/OrderItem$OrderItemBuilder.class
